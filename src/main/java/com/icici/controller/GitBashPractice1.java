@@ -5,5 +5,7 @@ public class GitBashPractice1 {
 	private String param2;
 	private String param3;
 	private String param4;
+	private String param5;
+	private String param6;
 
 }
